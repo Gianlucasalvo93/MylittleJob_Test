@@ -14,6 +14,7 @@ stylesheets: css of the page Index.html
 stylesheets_w_b: css of the page Index_w_b.html.
 
 Main.py: is the main python back-end file, developed with the Flask framework (view the comments of the source code)
+
          Its operations are:
             - calls properly the Spotify API, setting the flag "types"
             - render the html pages
